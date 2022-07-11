@@ -1,4 +1,7 @@
-### Hi there 👋
+### majoring in ...
+✏️ Global School of Media <br>
+✏️ School of Computer Science and Engineering
+
 
 <!--
 **jwo0o0/jwo0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
