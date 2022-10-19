@@ -1,6 +1,9 @@
-### majoring in ...
+### 💭 Currently Studying ... 
+🌐  Web Frontend
+#### 🏫 Majoring in ...
 ✏️ Global School of Media <br>
 ✏️ School of Computer Science and Engineering
+
 
 
 <!--
