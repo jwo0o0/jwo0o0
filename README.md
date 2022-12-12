@@ -9,6 +9,8 @@
 
 ![jwo0o0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwo0o0&show_icons=true&theme=vue)
 
+🔍 [More about me](https://jwo0o0-frontend.notion.site/JeongWoo-Kim-c7a85ff2ee034810aba21cff3d65d922)
+
 <!--
 #### 🏫 Majoring in ...
 ✏️ Global School of Media <br>
