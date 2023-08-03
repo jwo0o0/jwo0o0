@@ -1,7 +1,10 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwo0o0%2Fhit-counter&count_bg=%23F9CF5C&title_bg=%239DAEF5&icon=snapchat.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwo0o0%2Fhit-counter&count_bg=%23BFC1FF&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%AB%A7&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!--
 ### 💭 Currently Studying ... 
 🌐  Web Frontend, Backend <br/> 🤖 Machine Learning
+
+-->
 
 <!--
 ### 🛠 Working on ...
