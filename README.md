@@ -1,12 +1,12 @@
 ```BASH
-  ,-~~-.___.
- / |  '     \                  jwo0o0 = {
-(  )         0                   interested-in: [ Web Development, UI/UX, Cloud ],      
- \_/-, ,----'                    skills: [ JavaScript, TypeScript, React, Recoil,
-    ====           //                      Styled-components, Storybook,
-   /  \-'~;    /~~~(O)                     Node.js, AWS, SpringBoot, MySQL ]
-  /  __/~|   /       |           }
-=(  _____| (_________|   W<       
+    ,-~~-.___.
+   / |  '     \                  jwo0o0 = {
+  (  )         0                   interested-in: [ Web Development, UI/UX, Cloud ],      
+   \_/-, ,----'                    skills: [ JavaScript, TypeScript, React, Recoil,
+      ====           //                      Styled-components, Storybook,
+     /  \-'~;    /~~~(O)                     Node.js, AWS, SpringBoot, MySQL ]
+    /  __/~|   /       |           }
+  =(  _____| (_________|   W<       
 ```
 
 
