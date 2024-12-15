@@ -3,7 +3,8 @@
    / |  '     \                  jwo0o0 = {
   (  )         0                   interested-in: [ Web Development, UI/UX, Cloud ],      
    \_/-, ,----'                    skills: [ JavaScript, TypeScript, React, Next.js,
-      ====           //                      Recoil, Styled-components, Storybook ]
+                                             Tailwind CSS, Styled-components, Storybook,
+      ====           //                      Tanstack query, Zustand, Git, AWS and more! ]
      /  \-'~;    /~~~(O)           }
     /  __/~|   /       |           
   =(  _____| (_________|          
