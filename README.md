@@ -29,8 +29,6 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-black?style=flat) <br/>
 
 
+![jwo0o0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwo0o0&show_icons=true&theme=graywhite) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jwo0o0)](https://velog.io/@jwo0o0) 
 
-![jwo0o0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwo0o0&show_icons=true&theme=graywhite) 
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jwo0o0)](https://velog.io/@jwo0o0) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwo0o0%2Fhit-counter&count_bg=%23BFC1FF&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%AB%A7&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwo0o0%2Fhit-counter&count_bg=%23BFC1FF&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%AB%A7&edge_flat=false)](https://hits.seeyoufarm.com)
